@@ -16,3 +16,9 @@
 - [x] Vérifier l’état local et le dernier commit distant.
 - [x] Envoyer vers GitHub les éventuels changements non synchronisés.
 - [x] Confirmer l’URL et la visibilité publique du dépôt.
+
+## Publication de la compétence arabe complète
+
+- [x] Copier la compétence arabe validée dans le répertoire du dépôt.
+- [x] Ajouter le fichier SKILL.md complet et l’envoyer vers GitHub.
+- [x] Vérifier le lien direct de la compétence publiée.
