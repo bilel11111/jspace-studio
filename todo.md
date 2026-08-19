@@ -9,4 +9,4 @@
 
 - [x] Définir les règles de direction artistique, d’accessibilité et de responsive design.
 - [x] Rédiger le fichier SKILLS.md en arabe avec des modèles de décision applicables.
-- [ ] Ajouter, valider et synchroniser le guide dans le dépôt GitHub public.
+- [x] Ajouter, valider et synchroniser le guide dans le dépôt GitHub public.
